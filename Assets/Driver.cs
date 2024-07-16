@@ -6,7 +6,6 @@ using UnityEngine.UIElements;
 public class Driver : MonoBehaviour
 {
     [SerializeField] float steerSpeed = 1, moveSpeed = 0.01f;
-    transform.
 
     void Start()
     {
